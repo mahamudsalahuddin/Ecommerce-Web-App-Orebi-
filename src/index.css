@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .slick-arrow{
+    color: black;
+}
+.slick-prev{
+    z-index:100;
+    left: 20px !important;
+} */
